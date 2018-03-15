@@ -3,7 +3,7 @@ var sources = [
 ];
 
 var labels = [
-  [ "ON AIR 128 Kbps", "http://88.80.189.23:8065/stream" ],
+  [ "நேரலை 128 Kbps", "http://88.80.189.23:8065/stream" ],
 ];
 
 var playingIndex = 0; // current radio
