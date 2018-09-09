@@ -1,9 +1,9 @@
 var sources = [
-  "http://88.80.189.23:8065/stream", // ragasiam 128 kbps
+  "http://192.99.35.215:5678/stream", // ragasiam 128 kbps
 ];
 
 var labels = [
-  [ "நேரலை 128 Kbps", "http://88.80.189.23:8065" ],
+  [ "நேரலை 128 Kbps", "http://192.99.35.215:5678" ],
 ];
 
 var playingIndex = 0; // current radio
